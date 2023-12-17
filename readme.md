@@ -1,0 +1,1 @@
+Overall scope of this project was to clean data for a neural network.  Once data was cleaned, I passed it through a Neural Netowrk and then attempted to optimize it.  The 1st iteration was the best model.
